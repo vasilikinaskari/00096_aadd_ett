@@ -6,7 +6,7 @@
 ### Eπιβλέπων Καθηγητής : [Γκόγκος Χρήστος](https://github.com/chgogos)
 ## Πίνακας Περιεχομένων
 * [Κώδικας](https://github.com/vasilikinaskari/00096_aadd_ett/blob/main/UETT/uett.py) 
-* [Αποτελέσματα]()
+* [Αποτελέσματα](https://github.com/vasilikinaskari/00096_aadd_ett/blob/main/results.docx)
 
 
 
